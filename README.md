@@ -6,6 +6,12 @@
 ## Description
 ---
 #### SuiteProject is used for testing Login functionality. There are 5 tests in this project.
+* Happy path - user should be able to enter correct username / password and be loggedin
+* Form should not submit if either username is empty
+* Form should not submit if either password is empty
+* Form should validate username to be a valid email address
+* Form should display an error message in case of failed login
+---
 #### Target application URL is: https://the.suite.st/login
 #### Target browser: Chrome, Chromium, Firefox, Electron
 #### Chrome version: 83.0.4103.61 (Official build)(64-bit)

@@ -59,3 +59,9 @@
 ## Running tests from Terminal
 
 `npm run test`
+
+## Cypress `Dashboard`
+[Cypress Dashboard](https://dashboard.cypress.io/projects/n74fah/runs/1/specs)
+
+## Cypress Video
+[Cypress Video](https://dashboard.cypress.io/projects/n74fah/runs/1/specs/5bd44684-6cf7-4bd1-bce1-f86ffeeec4da/video)

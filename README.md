@@ -13,6 +13,7 @@
 * Form should display an error message in case of failed login
 ---
 #### Target application URL is: https://the.suite.st/login
+---
 #### Target browser: Chrome, Chromium, Firefox, Electron
 #### Chrome version: 83.0.4103.61 (Official build)(64-bit)
 #### Chromium version: 83.0.4103.116 
